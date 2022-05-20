@@ -9,12 +9,14 @@ Verkefnið lýsir sér þannig að við áttum að búa til *animatronic* frá g
 
 ### Myndband og myndir
 
+[Myndband](https://youtu.be/khBM82CVXr4)
+
 ![Allt](https://user-images.githubusercontent.com/34522977/156190364-ae93f6d3-082e-4284-9b50-0e91f6f10294.jpg)
 ![Bakvið tjöldin](https://user-images.githubusercontent.com/34522977/156190382-737edb4a-70a4-4a78-b62d-c3b060af3e98.jpg)
 ![Brauðbrettið](https://user-images.githubusercontent.com/34522977/156190410-ba9c7710-1111-41a8-bc33-68a8e7cc14c1.jpg)
 ![Þrýstineminn](https://user-images.githubusercontent.com/34522977/156190398-c1d0b7f3-1c08-4a41-8c0e-76ff8e0ac4dd.jpg)
 
-[Myndband](https://youtu.be/khBM82CVXr4)
+---
 
 ### Leiðbeiningar um tengingar
 9V batterí fer í línuna með rauða vírnum úr speed controler fyrir hausinn
